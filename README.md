@@ -4,11 +4,12 @@
 
 <a href="https://github.com/DuduSync"><img src="https://hits.sh/github.com/DuduSync.svg?style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Building+AI+APIs+without+limits;Founder+of+LoreAPI;Python+%2B+TypeScript;Kotlin+%2B+Android" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Building+AI+APIs+without+limits;Founder+of+LoreAPI;Python+%2B+TypeScript+%2B+Java;Kotlin+%2B+Android" alt="Typing SVG" />
 
 <br /><br />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -19,14 +20,14 @@
 
 ## PT-BR
 
-Oi! Sou o **Dudu**, dev brasileiro de Santo André, SP. Construo produtos de ponta a ponta: da API ao app, do backend ao deploy.
+Oi! Sou o **Dudu**, dev brasileiro de Santo André, SP. Construo produtos de ponta a ponta: da API ao app, do backend ao deploy. Trabalho com Python, TypeScript, Java e Kotlin.
 
 - **LoreAPI**: API de IA compatível com OpenAI para roleplay e apps criativos. 1M de tokens de contexto, ~100 tokens/s, sem filtros, desde $2 a cada 200 créditos.
 - **Hydroid**: launcher de jogos open source para Android, port do Hydra Launcher.
 
 ## About (EN)
 
-Hi! I'm **Dudu**, a solo developer from Brazil. I build end-to-end products: API, web and mobile.
+Hi! I'm **Dudu**, a solo developer from Brazil. I build end-to-end products: API, web and mobile. I work with Python, TypeScript, Java and Kotlin.
 
 - **LoreAPI**: OpenAI-compatible AI API for roleplay and creative apps. 1M token context, ~100 tok/s, unfiltered, from $2 per 200 credits.
 - **Hydroid**: open source game launcher for Android, a port of Hydra Launcher.
