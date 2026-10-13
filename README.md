@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:22d3ee&height=220&section=header&text=DuduSync&fontSize=70&fontColor=ffffff&desc=AI%20APIs%20without%20limits&descSize=18&descAlignY=72" alt="DuduSync" />
 
-<a href="https://github.com/DuduSync"><img src="https://komarev.com/ghpvc/?username=DuduSync&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/DuduSync"><img src="https://hits.sh/github.com/DuduSync.svg?style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Building+AI+APIs+without+limits;Founder+of+LoreAPI;Python+%2B+TypeScript;Kotlin+%2B+Android" alt="Typing SVG" />
 
